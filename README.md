@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="logo.png" alt="Riding Cities Logo" width="150">
-</p>
 
-# 🛹 Riding Cities
+
+# 🛹  SITE Riding Cities
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50"/>
@@ -18,3 +16,7 @@ Il s'agit d'un site vitrine présentant l'association **Riding Cities**, ses mis
 - **CSS3** ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ## 📂 Structure du projet
+
+## 🌍 Voir le site en ligne
+🔗 [Accéder à Riding Cities](https://hichame-dev.github.io/Riding-Cities/)
+
