@@ -18,4 +18,3 @@ Il s'agit d'un site vitrine présentant l'association **Riding Cities**, ses mis
 - **CSS3** ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ## 📂 Structure du projet
-
