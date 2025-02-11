@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="logo.png" alt="Riding Cities Logo" width="150">
-</p>
+
 
 # 🛹 Riding Cities
 
